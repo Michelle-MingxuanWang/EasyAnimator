@@ -1,5 +1,7 @@
 # EasyAnimator
 
+This is the Mingxuan Wang's final project of CS5004 Object Oriented Design. 
+
 Easy Animator Design  
 
 The animator is an application that can create animation of given descriptions. The application is built using a model-view-controller pattern.  
