@@ -1,6 +1,6 @@
 # EasyAnimator
 
-This is the final project of CS5004 Object Oriented Design of Mingxuan Wang. 
+This is the final project of CS5004 Object Oriented Design of Michelle Wang. 
 
 Easy Animator Design  
 
